@@ -1,0 +1,11 @@
+Esta es la prueba para el merge
+
+Cada uno deberia modificar esta linea 
+
+Debajo de esta linea cada debe agregar una nueva linea especificando su nombre
+
+
+ahora cada uno debe agragar una linea en diferentes "posiciones" (debajo del nombre)
+Miguel: 
+
+Maicol:
